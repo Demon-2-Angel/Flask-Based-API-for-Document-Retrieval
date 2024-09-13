@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Caching
+Flask-Limiter
+transformers
+torch
+pinecone-client
