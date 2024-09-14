@@ -8,3 +8,188 @@
 2024-09-14 03:15:04,914 - INFO - Starting Flask API server.
 2024-09-14 03:15:04,922 - WARNING -  * Debugger is active!
 2024-09-14 03:15:04,925 - INFO -  * Debugger PIN: 797-750-787
+2024-09-14 13:17:22,375 - INFO - Starting Flask API server.
+2024-09-14 13:17:22,406 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.25.217.98:5000
+2024-09-14 13:17:22,406 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-14 13:17:22,406 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-14 13:17:27,877 - INFO - Starting Flask API server.
+2024-09-14 13:17:27,877 - WARNING -  * Debugger is active!
+2024-09-14 13:17:27,877 - INFO -  * Debugger PIN: 491-842-263
+2024-09-14 13:18:29,947 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\sansio\\app.py', reloading
+2024-09-14 13:18:29,963 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2024-09-14 13:18:29,996 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2024-09-14 13:18:30,087 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+2024-09-14 13:18:30,100 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\__init__.py', reloading
+2024-09-14 13:18:30,116 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\_collections.py', reloading
+2024-09-14 13:18:30,132 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\_py_collections.py', reloading
+2024-09-14 13:18:30,147 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\typing.py', reloading
+2024-09-14 13:18:30,147 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\event\\registry.py', reloading
+2024-09-14 13:18:30,187 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\query.py', reloading
+2024-09-14 13:18:30,195 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+2024-09-14 13:18:30,211 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+2024-09-14 13:18:30,289 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\annotation.py', reloading
+2024-09-14 13:18:30,289 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\log.py', reloading
+2024-09-14 13:18:30,308 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\langhelpers.py', reloading
+2024-09-14 13:18:30,336 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\roles.py', reloading
+2024-09-14 13:18:30,349 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\model.py', reloading
+2024-09-14 13:18:30,362 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\decl_api.py', reloading
+2024-09-14 13:18:30,388 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\mapper.py', reloading
+2024-09-14 13:18:30,853 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-14 13:18:37,344 - INFO - Starting Flask API server.
+2024-09-14 13:18:37,349 - WARNING -  * Debugger is active!
+2024-09-14 13:18:37,351 - INFO -  * Debugger PIN: 491-842-263
+2024-09-14 18:20:50,369 - INFO -  * Detected change in 'C:\\Users\\aniru\\Machine Learning\\Internships\\TradeMarkia\\projects\\app.py', reloading
+2024-09-14 18:20:50,369 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\_internal.py', reloading
+2024-09-14 18:20:50,370 - INFO -  * Detected change in 'C:\\Users\\aniru\\Machine Learning\\Internships\\TradeMarkia\\projects\\cache.py', reloading
+2024-09-14 18:20:50,370 - INFO -  * Detected change in 'C:\\Users\\aniru\\Machine Learning\\Internships\\TradeMarkia\\projects\\database.py', reloading
+2024-09-14 18:20:50,370 - INFO -  * Detected change in 'C:\\Users\\aniru\\Machine Learning\\Internships\\TradeMarkia\\projects\\limiter.py', reloading
+2024-09-14 18:20:50,370 - INFO -  * Detected change in 'C:\\Users\\aniru\\Machine Learning\\Internships\\TradeMarkia\\projects\\utils.py', reloading
+2024-09-14 18:20:50,371 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2024-09-14 18:20:50,372 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\utils.py', reloading
+2024-09-14 18:20:50,372 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2024-09-14 18:20:50,373 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2024-09-14 18:20:50,373 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2024-09-14 18:20:50,373 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-09-14 18:20:50,374 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2024-09-14 18:20:50,374 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\globals.py', reloading
+2024-09-14 18:20:50,374 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\json\\__init__.py', reloading
+2024-09-14 18:20:50,376 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\typing.py', reloading
+2024-09-14 18:20:50,376 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\config.py', reloading
+2024-09-14 18:20:50,377 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2024-09-14 18:20:50,377 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\sansio\\app.py', reloading
+2024-09-14 18:20:50,378 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\wrappers.py', reloading
+2024-09-14 18:20:50,378 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\app.py', reloading
+2024-09-14 18:20:50,378 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\sansio\\blueprints.py', reloading
+2024-09-14 18:20:50,379 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\blueprints.py', reloading
+2024-09-14 18:20:50,379 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask\\__init__.py', reloading
+2024-09-14 18:20:50,380 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\typing.py', reloading
+2024-09-14 18:20:50,380 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\_collections.py', reloading
+2024-09-14 18:20:50,381 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\langhelpers.py', reloading
+2024-09-14 18:20:50,381 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\util\\__init__.py', reloading
+2024-09-14 18:20:50,381 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\event\\registry.py', reloading
+2024-09-14 18:20:50,382 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+2024-09-14 18:20:50,382 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\log.py', reloading
+2024-09-14 18:20:50,382 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\roles.py', reloading
+2024-09-14 18:20:50,383 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\inspection.py', reloading
+2024-09-14 18:20:50,383 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\visitors.py', reloading
+2024-09-14 18:20:50,383 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\cache_key.py', reloading
+2024-09-14 18:20:50,383 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\traversals.py', reloading
+2024-09-14 18:20:50,384 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\base.py', reloading
+2024-09-14 18:20:50,384 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\annotation.py', reloading
+2024-09-14 18:20:50,384 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\elements.py', reloading
+2024-09-14 18:20:50,384 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\selectable.py', reloading
+2024-09-14 18:20:50,384 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\schema.py', reloading
+2024-09-14 18:20:50,386 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\sql\\__init__.py', reloading
+2024-09-14 18:20:50,387 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\schema.py', reloading
+2024-09-14 18:20:50,387 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\__init__.py', reloading
+2024-09-14 18:20:50,388 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\_typing.py', reloading
+2024-09-14 18:20:50,388 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\base.py', reloading
+2024-09-14 18:20:50,388 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\interfaces.py', reloading
+2024-09-14 18:20:50,389 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\state.py', reloading
+2024-09-14 18:20:50,390 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\mapper.py', reloading
+2024-09-14 18:20:50,390 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+2024-09-14 18:20:50,391 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+2024-09-14 18:20:50,391 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\decl_api.py', reloading
+2024-09-14 18:20:50,392 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\scoping.py', reloading
+2024-09-14 18:20:50,393 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+2024-09-14 18:20:50,393 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\query.py', reloading
+2024-09-14 18:20:50,394 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\model.py', reloading
+2024-09-14 18:20:50,394 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\session.py', reloading
+2024-09-14 18:20:50,394 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\table.py', reloading
+2024-09-14 18:20:50,394 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\extension.py', reloading
+2024-09-14 18:20:50,395 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_sqlalchemy\\__init__.py', reloading
+2024-09-14 18:20:50,396 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_caching\\__init__.py', reloading
+2024-09-14 18:20:50,396 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_limiter\\constants.py', reloading
+2024-09-14 18:20:50,397 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_limiter\\typing.py', reloading
+2024-09-14 18:20:50,399 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_limiter\\wrappers.py', reloading
+2024-09-14 18:20:50,400 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_limiter\\util.py', reloading
+2024-09-14 18:20:50,400 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_limiter\\extension.py', reloading
+2024-09-14 18:20:50,400 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\flask_limiter\\__init__.py', reloading
+2024-09-14 18:20:50,401 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\compat.py', reloading
+2024-09-14 18:20:50,401 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\typing.py', reloading
+2024-09-14 18:20:50,402 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\commands\\core.py', reloading
+2024-09-14 18:20:50,403 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\commands\\redismodules.py', reloading
+2024-09-14 18:20:50,403 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\commands\\sentinel.py', reloading
+2024-09-14 18:20:50,403 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\commands\\__init__.py', reloading
+2024-09-14 18:20:50,404 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\client.py', reloading
+2024-09-14 18:20:50,404 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\redis\\__init__.py', reloading
+2024-09-14 18:20:50,404 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\dotenv\\main.py', reloading
+2024-09-14 18:20:50,405 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\dotenv\\__init__.py', reloading
+2024-09-14 18:20:50,405 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\deprecation_warnings.py', reloading
+2024-09-14 18:20:50,406 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\shared\\__init__.py', reloading
+2024-09-14 18:20:50,406 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\exceptions\\__init__.py', reloading
+2024-09-14 18:20:50,408 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\shared\\configuration.py', reloading
+2024-09-14 18:20:50,408 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\utils\\user_agent.py', reloading
+2024-09-14 18:20:50,408 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\utils\\normalize_host.py', reloading
+2024-09-14 18:20:50,409 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\utils\\setup_openapi_client.py', reloading
+2024-09-14 18:20:50,409 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\utils\\__init__.py', reloading
+2024-09-14 18:20:50,409 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\config\\config.py', reloading
+2024-09-14 18:20:50,410 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\config\\pinecone_config.py', reloading
+2024-09-14 18:20:50,410 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\config\\__init__.py', reloading
+2024-09-14 18:20:50,410 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\shared\\model_utils.py', reloading
+2024-09-14 18:20:50,410 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\shared\\api_client.py', reloading
+2024-09-14 18:20:50,411 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\model\\create_index_request.py', reloading
+2024-09-14 18:20:50,411 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\model\\index_list.py', reloading
+2024-09-14 18:20:50,411 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\model\\index_model.py', reloading
+2024-09-14 18:20:50,412 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\api\\manage_indexes_api.py', reloading
+2024-09-14 18:20:50,412 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\control\\index_host_store.py', reloading
+2024-09-14 18:20:50,412 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\model\\deletion_protection.py', reloading
+2024-09-14 18:20:50,413 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\model\\index_spec.py', reloading
+2024-09-14 18:20:50,413 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\model\\serverless_spec.py', reloading
+2024-09-14 18:20:50,414 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\control\\models\\__init__.py', reloading
+2024-09-14 18:20:50,414 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\models\\serverless_spec.py', reloading
+2024-09-14 18:20:50,414 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\models\\pod_spec.py', reloading
+2024-09-14 18:20:50,415 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\models\\index_model.py', reloading
+2024-09-14 18:20:50,415 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\models\\index_list.py', reloading
+2024-09-14 18:20:50,415 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\models\\__init__.py', reloading
+2024-09-14 18:20:50,416 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\data\\model\\query_response.py', reloading
+2024-09-14 18:20:50,416 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\data\\model\\sparse_values.py', reloading
+2024-09-14 18:20:50,417 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\core\\openapi\\data\\models\\__init__.py', reloading
+2024-09-14 18:20:50,417 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\utils\\error_handling.py', reloading
+2024-09-14 18:20:50,418 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\data\\index.py', reloading
+2024-09-14 18:20:50,418 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\data\\__init__.py', reloading
+2024-09-14 18:20:50,419 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\control\\pinecone.py', reloading
+2024-09-14 18:20:50,419 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\control\\__init__.py', reloading
+2024-09-14 18:20:50,419 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\pinecone\\__init__.py', reloading
+2024-09-14 18:20:50,423 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\huggingface_hub\\utils\\tqdm.py', reloading
+2024-09-14 18:20:50,425 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\huggingface_hub\\utils\\__init__.py', reloading
+2024-09-14 18:20:50,428 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\doc.py', reloading
+2024-09-14 18:20:50,435 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\logging.py', reloading
+2024-09-14 18:20:50,435 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\import_utils.py', reloading
+2024-09-14 18:20:50,438 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\cuda\\__init__.py', reloading
+2024-09-14 18:20:50,441 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\nn\\functional.py', reloading
+2024-09-14 18:20:50,444 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\nn\\modules\\rnn.py', reloading
+2024-09-14 18:20:50,446 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_library\\abstract_impl.py', reloading
+2024-09-14 18:20:50,446 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_library\\custom_ops.py', reloading
+2024-09-14 18:20:50,446 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\library.py', reloading
+2024-09-14 18:20:50,447 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\functional.py', reloading
+2024-09-14 18:20:50,465 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_prims\\debug_prims.py', reloading
+2024-09-14 18:20:50,465 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_prims\\__init__.py', reloading
+2024-09-14 18:20:50,466 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_meta_registrations.py', reloading
+2024-09-14 18:20:50,466 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\__init__.py', reloading
+2024-09-14 18:20:50,467 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\generic.py', reloading
+2024-09-14 18:20:50,467 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\hub.py', reloading
+2024-09-14 18:20:50,467 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\__init__.py', reloading
+2024-09-14 18:20:50,467 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\dependency_versions_check.py', reloading
+2024-09-14 18:20:50,468 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_sentencepiece_objects.py', reloading
+2024-09-14 18:20:50,468 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_tensorflow_text_objects.py', reloading
+2024-09-14 18:20:50,468 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_keras_nlp_objects.py', reloading
+2024-09-14 18:20:50,468 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_torchvision_objects.py', reloading
+2024-09-14 18:20:50,469 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_essentia_and_librosa_and_pretty_midi_and_scipy_and_torch_objects.py', reloading
+2024-09-14 18:20:50,469 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_torchaudio_objects.py', reloading
+2024-09-14 18:20:50,469 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\utils\\dummy_flax_objects.py', reloading
+2024-09-14 18:20:50,469 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\__init__.py', reloading
+2024-09-14 18:20:50,470 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\models\\auto\\__init__.py', reloading
+2024-09-14 18:20:50,477 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\tokenization_utils_base.py', reloading
+2024-09-14 18:20:50,478 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\tokenization_utils.py', reloading
+2024-09-14 18:20:50,478 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\transformers\\tokenization_utils_fast.py', reloading
+2024-09-14 18:20:50,502 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\fx\\experimental\\_config.py', reloading
+2024-09-14 18:20:50,524 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_inductor\\config.py', reloading
+2024-09-14 18:20:50,524 - INFO -  * Detected change in 'C:\\Users\\aniru\\AppData\\Roaming\\Python\\Python39\\site-packages\\torch\\_functorch\\config.py', reloading
+2024-09-14 18:20:51,988 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-14 18:21:22,512 - INFO - Starting Flask API server.
+2024-09-14 18:21:22,520 - WARNING -  * Debugger is active!
+2024-09-14 18:21:22,523 - INFO -  * Debugger PIN: 491-842-263

@@ -90,3 +90,11 @@ def internal_error(error):
 if __name__ == '__main__':
     logging.info("Starting Flask API server.")
     app.run(host='0.0.0.0', port=5000, debug=True)
+
+from scraping import start_scraping_thread
+
+if __name__ == '__main__':
+    logging.info("Starting Flask API server.")
+      # Start the background scraping thread
+    app.run(host='0.0.0.0', port=5000, debug=True)
+
