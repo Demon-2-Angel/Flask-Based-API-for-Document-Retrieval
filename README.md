@@ -95,7 +95,7 @@ project/
 
 ### Prerequisites:
 - **Python 3.9+**
-- **Docker** (optional, for running the app in a container)
+- **Docker** 
 
 ### Step 1: Clone the Repository
 
@@ -115,7 +115,7 @@ source venv/bin/activate  # On Windows, use venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-###Step 4: Set Up Environment Variables
+### Step 4: Set Up Environment Variables
 
 Create a .env file in the project root and add your Pinecone API key and environment:
 
