@@ -6,6 +6,8 @@ from limiter import limiter
 from utils import get_embedding, query_pinecone
 import time
 from logging.handlers import RotatingFileHandler
+from scraping import start_scraping_thread
+from flask import request, jsonify
 
 app = Flask(__name__)
 
@@ -87,14 +89,18 @@ def internal_error(error):
     logging.error(f"500 Error: {error}")
     return jsonify({"error": "Internal server error"}), 500
 
-if __name__ == '__main__':
-    logging.info("Starting Flask API server.")
-    app.run(host='0.0.0.0', port=5000, debug=True)
-
+@app.route('/start_scraping', methods=['POST'])
+def start_scraping():
+    try:
+        data = request.get_json()
+        url = data['url']  # Get the URL to scrape from the request
+        start_scraping_thread(url)
+        return jsonify({"message": f"Started scraping for {url}"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
 from scraping import start_scraping_thread
 
 if __name__ == '__main__':
     logging.info("Starting Flask API server.")
-      # Start the background scraping thread
     app.run(host='0.0.0.0', port=5000, debug=True)
-
