@@ -78,6 +78,7 @@ project/
 ├── .dockerignore        # Ignore unnecessary files in the Docker build
 └── README.md            # Project documentation
 ```
+
 ## Key Files:
 
 - **`app.py`**: Contains the Flask application and all API routes.
