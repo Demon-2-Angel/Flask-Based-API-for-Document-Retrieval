@@ -64,7 +64,7 @@ We Dockerized the project using a **Dockerfile**. This allows the project to be 
 
 ## Project Structure
 
-```plaintext
+```
 project/
 ├── app.py               # Main Flask application
 ├── database.py          # Database setup for user management
@@ -77,7 +77,7 @@ project/
 ├── .env                 # Environment variables (not committed to version control)
 ├── .dockerignore        # Ignore unnecessary files in the Docker build
 └── README.md            # Project documentation
-
+```
 ## Key Files:
 
 - **`app.py`**: Contains the Flask application and all API routes.
@@ -89,7 +89,7 @@ project/
 - **`Dockerfile`**: Used to build and run the application in a Docker container.
 
 ---
-```
+
 ## Setup and Installation
 
 ### Prerequisites:
