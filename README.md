@@ -139,3 +139,85 @@ To set up the database, run the following code:
 python app.py
 ```
 The app will be running at `http://localhost:5000`.
+
+## Docker Setup
+
+### Step 1: Build the Docker Image
+
+```
+docker build -t flask-app .
+```
+### Step 2: Run the Docker Container
+```
+docker run -p 5000:5000 flask-app
+```
+Now, your app will be running at   `http://localhost:5000`.
+
+## API Endpoints
+
+1. Health Check
+
+**URL**: `/health`
+**Method**: `GET`
+**Description**: Checks if the API is running.
+**Response**:
+```
+json
+Copy code
+{
+  "status": "API is running"
+}
+```
+
+2. Search
+
+**URL**: `/search`
+**Method**: `POST`
+**Description**: Search documents based on text queries.
+**Request Body**:
+```
+json
+Copy code
+{
+  "query": "Your search query",
+  "user_id": "user123",
+  "top_k": 3
+}
+```
+**Response**: Returns a list of matching documents based on the query.
+
+3. Start Scraping
+**URL**: `/start_scraping`
+**Method**: `POST`
+**Description**: Starts the background scraping process for a specific site.
+**Request Body**:
+```
+json
+Copy code
+{
+  "url": "https://example.com"
+}
+```
+
+**Response**:
+```
+json
+
+{
+  "message": "Started scraping for https://example.com"
+}
+```
+
+## Troubleshooting
+
+### Common Issues:
+1. Rate Limit Exceeded: If you hit the rate limit, the API will return a 429 error.
+2. Caching Delay: If cached results are returned, you might need to wait 5 minutes before new results appear.
+3. Logs: The application logs all requests and errors in `api.log`.
+Background scraping logs are written to scraping.log.
+
+## Future Enhancements
+
+1. Authentication: Adding API key-based authentication for added security.
+2. Improved Error Handling: More detailed error messages for invalid queries or scraping failures.
+3. Support for Multiple Scraping Sites: Enhance the scraper to handle multiple sites in parallel.
