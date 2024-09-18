@@ -1,5 +1,3 @@
-# 21BAI10054_ML
-
 # Flask-Based API for Document Retrieval with Pinecone, Caching, Rate Limiting, and Background Scraping
 
 ## Project Overview
